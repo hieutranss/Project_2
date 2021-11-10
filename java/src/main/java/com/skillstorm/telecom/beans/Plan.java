@@ -9,7 +9,11 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-
+/**
+ * Plans entity
+ * @author Matthew, Edrick, Hieu
+ *
+ */
 @Entity
 @Table(name = "PLANS")
 public class Plan {

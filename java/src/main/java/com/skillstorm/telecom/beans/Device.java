@@ -9,7 +9,11 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-
+/**
+ * Devices Entity
+ * @author Matthew, Edrick, Hieu
+ *
+ */
 @Entity
 @Table(name = "DEVICES")
 public class Device {
