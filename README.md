@@ -1,5 +1,3 @@
-# Project 2: 
-
 # Telecom Customer Portal 
 
 This application will serve as the customer portal for managing an account with a large telecommunications company, like Verizon or AT&T. You are encouraged to use your own mobile provider’s customer portal for inspiration.  
